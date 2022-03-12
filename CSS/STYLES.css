@@ -1,0 +1,90 @@
+body{
+  background-color: #C8F2EF;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  text-align: center;
+  font-family: serif;
+  font-family: 'Montserrat', sans-serif;
+
+}/*this is an external css in which element is stylised*/
+h1{font-size: 5.5em;
+  font-family: 'Sacramento', cursive;
+  color: #5463FF;
+
+}
+h3{
+    font-family: 'Merriweather', serif;
+}
+.tc{
+  padding-top: 80px;
+  position: relative;
+}
+.mc{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 200px;
+}
+.bc{
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  left: 400px;
+  top: 400px;
+
+}
+.pro{
+  text-decoration: underline;
+  color: blue;
+
+}
+
+.i{
+  display: inline-block;
+}
+
+.spa{
+  color: brown;
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.my-image{
+  width: 200px;
+}
+.cimage{
+  width: 50px;
+}
+.c1image{
+  width: 80px;
+}
+.giphy{margin-left: 70px;
+ margin-top: 30px;
+  height: 300px;
+  width: 530px;
+
+}
+.h{
+  font-size: 2.5rem;
+  color: #C0A080;
+}
+.div-row{
+  width: 50%;
+  margin: auto;
+
+}
+.mye{
+  width: 30rem;
+}
